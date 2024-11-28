@@ -1,0 +1,230 @@
+Name: (0) Kadhai Paneer
+Cuisine: Indian
+Category: Main Course
+Difficulty: Medium
+PrepTime: 20
+CookTime: 25
+Ingredients: paneer: 250 gm,tomatoes: 3 pc,bell peppers: 2 pc,onions: 2 pc,ginger-garlic paste: 1 tbsp,kadhai masala: 2 tsp,red chili powder: 1 tsp,coriander powder: 1 tsp,garam masala: ½ tsp,fresh cream: 2 tbsp,oil: 2 tbsp,salt: to taste
+Description: A popular North Indian dish made with soft paneer cubes and a blend of aromatic spices, cooked in a thick tomato-based gravy with bell peppers and onions.
+Instructions: \n1) Heat oil in a kadhai and lightly sauté paneer cubes until golden. \n2) Set aside. \n3) In the same kadhai, heat oil, add ginger-garlic paste, and sauté for a minute. \n4) Add chopped onions and sauté until golden brown. \n5) Add chopped tomatoes and cook until soft and mushy.\n6) Add kadhai masala, red chili powder, coriander powder, and salt. Mix well. \n7) Toss in chopped bell peppers and cook for 5-7 minutes. Add sautéed paneer, garam masala, and fresh cream. \n8) Cook for another 5 minutes. Serve hot with naan or roti.
+---
+Name: (1) Masala Dosa
+Cuisine: Indian
+Category: Breakfast
+Difficulty: Medium
+PrepTime: 30
+CookTime: 10
+Ingredients: dosa batter: 2 cups,potatoes: 3 pc,onions: 1 pc,green chilies: 2 pc,curry leaves: 6-8 pc,mustard seeds: 1 tsp,turmeric powder: ½ tsp,oil: 2 tbsp,salt: to taste
+Description: A crispy South Indian crepe filled with a spiced potato mixture, served with chutneys and sambar.
+Instructions: \n1) Boil and peel the potatoes, then mash them roughly. \n2)Heat oil in a pan, add mustard seeds, and let them splutter. \n3)Add chopped onions, green chilies, and curry leaves. \n4)Sauté until onions turn golden. \n5)Add turmeric powder, salt, and mashed potatoes. \n6)Mix well and cook for 5 minutes. Set aside. \n7)Heat a dosa pan, spread a ladleful of batter evenly to form a thin crepe. \n8)Drizzle oil around the edges and cook until crispy. \n9)Place the potato filling in the center, fold the dosa, and serve hot with chutney and sambar.
+---
+Name: (2) Rasgulla
+Cuisine: Indian
+Category: Dessert
+Difficulty: Medium
+PrepTime: 15
+CookTime: 30
+Ingredients: milk: 1 liter,lemon juice: 2 tbsp,sugar: 1 cup,water: 4 cups
+Description: A classic Indian sweet made of soft, spongy cheese balls soaked in a light sugar syrup.
+Instructions: \n1) Boil milk in a pan, add lemon juice, and stir until the milk curdles. \n2)Strain the curdled milk using a muslin cloth to separate the whey.\n3) Wash the chenna under cold water to remove acidity. \n4)Knead the chenna until smooth, then make small balls without cracks. In a deep pan, boil water with sugar to prepare the syrup. \n5)Gently drop the chenna balls into the boiling syrup and cook for 15 minutes.\n6) Turn off the heat and let the rasgullas cool in the syrup. Serve chilled.
+---
+Name: (3) Gulab Jamun
+Cuisine: Indian
+Category: Dessert
+Difficulty: Medium
+PrepTime: 20
+CookTime: 30
+Ingredients: milk powder: 1 cup,maida: 2 tbsp,baking powder: ¼ tsp,ghee: 1 tbsp,milk: 2-3 tbsp,sugar: 1½ cups,water: 1½ cups,cardamom: 4 pc, ghee: 
+Description: A soft, melt-in-the-mouth Indian dessert made of deep-fried dough balls soaked in flavored sugar syrup.
+Instructions: \n1)Mix milk powder, maida, and baking powder in a bowl. \n2)Add ghee and milk gradually to form a soft dough. Make smooth, crack-free balls from the dough.\n3) Heat oil or ghee in a deep pan and fry the balls on low heat until golden brown.\n4) In another pan, prepare sugar syrup by boiling sugar, water, and cardamom until slightly thickened.\n5) Add the fried balls to the warm syrup and let them soak for 2 hours. Serve warm or cold.
+---
+Name: (4) Dhokla
+Cuisine: Indian
+Category: Snack
+Difficulty: Easy
+PrepTime: 15
+CookTime: 20
+Ingredients: besan: 1 cup,curd: ½ cup,water: ½ cup,eno fruit salt: 1 tsp,turmeric powder: ¼ tsp,salt: to taste,oil: 2 tbsp,mustard seeds: 1 tsp,curry leaves: 8-10 pc,green chilies: 2 pc,sugar: 1 tbsp,lemon juice: 1 tbsp
+Description: A soft and fluffy steamed snack from Gujarat, made with gram flour and tempered with aromatic spices.
+Instructions: \n1)In a bowl, mix besan, curd, water, turmeric powder, and salt to make a smooth batter.\n2) Let it rest for 10 minutes. Add eno fruit salt to the batter and mix gently.\n3) Pour the batter into a greased steaming tray and steam for 15-20 minutes until cooked.\n4) In a pan, heat oil and add mustard seeds, curry leaves, and green chilies. Sauté for a minute.\n5) Add sugar, lemon juice, and 2 tbsp water to the tempering.\n6) Pour this mixture over the steamed dhokla. Cut into pieces and serve with chutney.
+---
+Name: (5) Dum Hyderabadi Biryani
+Cuisine: Indian
+Category: Main Course
+Difficulty: Hard
+PrepTime: 40
+CookTime: 60
+Ingredients: basmati rice: 2 cups,chicken : 500 gm,onions: 2 pc,tomatoes: 2 pc,curd: 1 cup,ginger-garlic paste: 2 tbsp,biryani masala: 2 tbsp,mint leaves: ½ cup,saffron: a pinch,milk: 3 tbsp,ghee: 3 tbsp,oil: 2 tbsp,salt: to taste
+Description: A flavorful and aromatic dish from Hyderabad, made with layers of spiced chicken or paneer, fragrant rice, and garnished with mint leaves and saffron.
+Instructions: \n1)Wash and soak the basmati rice for 30 minutes. Cook rice until 70% done, then drain and set aside. \n2)Marinate chicken or paneer with curd, ginger-garlic paste, biryani masala, and salt for 30 minutes. Fry sliced onions in oil until golden brown. \n3)In a deep pot, layer marinated chicken or paneer, cooked rice, fried onions, and mint leaves.\n4) Dissolve saffron in warm milk and drizzle over the rice. \n5)Cover with a tight lid and cook on low flame for 30-40 minutes. Serve hot with raita or salan.
+---
+Name: (6) Paneer Tikka Masala
+Cuisine: Indian
+Category: Main Course
+Difficulty: Medium
+PrepTime: 30
+CookTime: 25
+Ingredients: paneer: 250 gm,yogurt: ½ cup,ginger-garlic paste: 1 tbsp,red chili powder: 1 tsp,turmeric powder: ½ tsp,cumin powder: 1 tsp,onions: 2 pc,tomatoes: 3 pc,cashews: 10 pc,cream: 2 tbsp,butter: 2 tbsp,oil: 1 tbsp,salt: to taste
+Description: A creamy and spiced dish made with grilled paneer cubes, cooked in a flavorful tomato-based gravy.
+Instructions: \n1) Marinate paneer cubes with yogurt, ginger-garlic paste, red chili powder, turmeric powder, cumin powder, and salt. \n2)Grill or sauté the marinated paneer until golden. \n3)In a pan, sauté onions in oil until golden, then add cashews and tomatoes. Cook until soft, then blend into a smooth paste. \n4)Heat butter in the same pan, add the blended paste, and cook with spices for 5 minutes. \n5)Add grilled paneer and cream, simmer for 5 minutes, and serve hot with naan or rice.
+---
+Name: (7) Garlic Naan
+Cuisine: Indian
+Category: Bread
+Difficulty: Medium
+PrepTime: 20
+CookTime: 10
+Ingredients: all-purpose flour: 2 cups,yeast: 1 tsp,sugar: 1 tsp,salt: to taste,curd: 2 tbsp,milk: ½ cup,butter: 2 tbsp,garlic: 3 cloves,cilantro: 2 tbsp
+Description: A soft and fluffy Indian bread flavored with garlic and cilantro, perfect for pairing with curries.
+Instructions: \n1)Dissolve yeast and sugar in warm milk, and let it sit for 5 minutes. \n2)In a bowl, mix flour, salt, curd, and the yeast mixture to form a soft dough. \n3)Cover and let it rise for 1 hour. \n4)Divide the dough into balls, roll each out, and sprinkle minced garlic and chopped cilantro on top. \n5)Heat a skillet and cook each naan until golden spots appear. Brush with butter and serve hot.
+---
+Name: (8) Jalebi
+Cuisine: Indian
+Category: Dessert
+Difficulty: Medium
+PrepTime: 15
+CookTime: 20
+Ingredients: all-purpose flour: 1 cup,curd: ½ cup,sugar: 2 cups,water: 1 cup,saffron: a pinch,cardamom powder: ½ tsp,ghee or oil: for frying
+Description: A crispy and juicy dessert made by deep-frying spirals of fermented batter, soaked in sugar syrup.
+Instructions: \n1)Mix flour and curd to form a smooth batter. Let it ferment for 8 hours. \n2)Prepare sugar syrup by boiling sugar and water with saffron and cardamom powder until slightly thickened. \n3)Fill the batter into a piping bag and pipe spirals into hot ghee or oil. Fry until golden and crisp. \n4)Soak the fried jalebis in warm sugar syrup for 2 minutes. Serve hot.
+---
+Name: (9) Dal Tadka
+Cuisine: Indian
+Category: Main Course
+Difficulty: Easy
+PrepTime: 15
+CookTime: 25
+Ingredients: toor dal: 1 cup,onions: 1 pc,tomatoes: 2 pc,garlic: 4 cloves,ginger: 1 inch,cumin seeds: 1 tsp,mustard seeds: 1 tsp,red chili powder: 1 tsp,turmeric powder: ½ tsp,oil: 2 tbsp,ghee: 1 tbsp,curry leaves: 8-10 pc,salt: to taste
+Description: A flavorful lentil dish tempered with aromatic spices and garnished with fried garlic and curry leaves.
+Instructions: \n1)Wash and cook toor dal in a pressure cooker with turmeric powder and water until soft. Mash the dal and set aside. \n2)Heat oil in a pan, add cumin seeds, mustard seeds, and curry leaves, and let them splutter. \n3)Add chopped onions, ginger, and garlic, and sauté until golden. \n4)Add chopped tomatoes, red chili powder, and salt. Cook until the tomatoes are soft. \n5)Mix in the cooked dal, add water to adjust consistency, and simmer for 5 minutes. \n6)Heat ghee in a small pan, fry sliced garlic until golden, and pour over the dal. Serve hot with rice or roti.
+
+---
+Name: (10) Pav Bhaji
+Cuisine: Indian
+Category: Snack
+Difficulty: Easy
+PrepTime: 20
+CookTime: 25
+Ingredients: potatoes: 3 pc,tomatoes: 3 pc,onions: 2 pc,capsicum: 1 pc,green peas: ½ cup,butter: 3 tbsp,pav bhaji masala: 2 tbsp,red chili powder: 1 tsp,turmeric powder: ½ tsp,garlic paste: 1 tbsp,salt: to taste,pav buns: 8 pc,lemon: 1 pc,cilantro: 2 tbsp
+Description: A popular street food from Mumbai, Pav Bhaji is a spicy mashed vegetable curry served with buttered pav (buns).
+Instructions:\n1) Boil potatoes, green peas, and capsicum until soft, then mash them. \n2)Heat butter in a pan, sauté chopped onions and garlic paste until golden.\n3) Add chopped tomatoes, pav bhaji masala, red chili powder, turmeric, and salt. Cook until tomatoes are soft. \n4)Add the mashed vegetables and cook for 10 minutes, mashing further. Adjust consistency with water if needed. \n5)Toast pav buns in butter on a skillet. Garnish bhaji with butter, cilantro, and lemon juice. Serve hot with pav
+---
+Name: (11) Chole Bhature
+Cuisine: Indian
+Category: Main Course
+Difficulty: Medium
+PrepTime: 30
+CookTime: 40
+Ingredients: chickpeas: 1 cup,onions: 2 pc,tomatoes: 3 pc,ginger-garlic paste: 1 tbsp,chole masala: 2 tbsp,turmeric powder: ½ tsp,red chili powder: 1 tsp,cumin seeds: 1 tsp,oil: 3 tbsp,salt: to taste,all-purpose flour: 2 cups,curd: ½ cup,baking powder: ½ tsp,sugar: 1 tsp
+Description: A classic Punjabi dish consisting of spicy chickpea curry (chole) served with deep-fried puffed bread (bhature).
+Instructions: \n1)Soak chickpeas overnight and pressure cook until soft.\n2) Heat oil in a pan, add cumin seeds, and sauté onions until golden.\n3) Add ginger-garlic paste, chopped tomatoes, chole masala, turmeric, red chili powder, and salt. Cook until oil separates. \n4)Add the cooked chickpeas and simmer for 15 minutes. \n5)For the bhature, knead a dough with flour, curd, baking powder, sugar, and water. Let it rest for 30 minutes.\n6) Roll into discs and deep fry until puffed and golden. Serve hot with chole, onions, and pickles.
+---
+Name: (12) Aloo Paratha
+Cuisine: Indian
+Category: Breakfast
+Difficulty: Easy
+PrepTime: 15
+CookTime: 20
+Ingredients: wheat flour: 2 cups,potatoes: 3 pc,green chilies: 2 pc,coriander leaves: 2 tbsp,ginger: 1 inch,cumin powder: 1 tsp,red chili powder: ½ tsp,salt: to taste,butter: 2 tbsp
+Description: A traditional Indian flatbread stuffed with a spiced potato filling, cooked to golden perfection with butter.
+Instructions:\n1) Boil, peel, and mash the potatoes. \n2)Mix in chopped green chilies, coriander leaves, grated ginger, cumin powder, red chili powder, and salt. \n3)Knead a soft dough using wheat flour, salt, and water. \n4)Divide the dough into balls, roll each out, and place the potato filling in the center. \n5)Fold and seal the edges, then roll gently into a flat circle. \n6)Cook on a skillet, applying butter on both sides, until golden. Serve hot with curd or pickle.
+
+---
+Name: (13) Rajma Chawal
+Cuisine: Indian
+Category: Main Course
+Difficulty: Easy
+PrepTime: 15
+CookTime: 40
+Ingredients: kidney beans: 1 cup,rice: 2 cups,onions: 2 pc,tomatoes: 3 pc,ginger-garlic paste: 1 tbsp,cumin seeds: 1 tsp,red chili powder: 1 tsp,turmeric powder: ½ tsp,garam masala: 1 tsp,oil: 2 tbsp,salt: to taste
+Description: A comforting North Indian dish made with soft kidney beans in a spicy tomato-based gravy, served with steamed rice.
+Instructions: \n1)Soak kidney beans overnight and pressure cook until soft. \n2)Heat oil in a pan, add cumin seeds, and sauté chopped onions until golden. \n3)Add ginger-garlic paste and chopped tomatoes.\n4) Cook until soft and mushy. Add red chili powder, turmeric, garam masala, and salt.\n5) Mix in the cooked kidney beans and simmer for 15 minutes. \n6)Cook rice separately until fluffy. Serve the rajma hot over steamed rice.
+
+---
+Name: (14) Dal Makhani
+Cuisine: Indian
+Category: Main Course
+Difficulty: Medium
+PrepTime: 20
+CookTime: 60
+Ingredients: whole black lentils: 1 cup,red kidney beans: ¼ cup,onions: 2 pc,tomatoes: 3 pc,garlic: 4 cloves,ginger: 1 inch,butter: 3 tbsp,cream: 2 tbsp,cumin seeds: 1 tsp,red chili powder: 1 tsp,turmeric powder: ½ tsp,garam masala: 1 tsp,salt: to taste
+Description: A rich and creamy lentil dish from Punjab, slow-cooked with butter and spices to develop deep flavors.
+Instructions: \n1) Soak lentils and kidney beans overnight, then pressure cook until soft.\n2) Heat butter in a pan, add cumin seeds, and sauté chopped onions, garlic, and ginger until golden.\n3) Add chopped tomatoes, red chili powder, turmeric, garam masala, and salt. Cook until the oil separates.\n4) Add the cooked lentils and beans, simmer for 30 minutes, stirring occasionally. \n5)Stir in cream and cook for another 5 minutes. Serve hot with naan or rice.
+---
+Name: (15) Uttapam
+Cuisine: Indian
+Category: Breakfast
+Difficulty: Easy
+PrepTime: 15
+CookTime: 20
+Ingredients: dosa batter: 2 cups,onions: 1 pc,tomatoes: 2 pc,green chilies: 2 pc,coriander leaves: 2 tbsp,oil: 2 tbsp,salt: to taste
+Description: A soft and savory South Indian pancake topped with vegetables, served with chutney and sambar.
+Instructions:\n1)Heat a skillet and pour a ladleful of dosa batter, spreading slightly to form a thick pancake. \n2)Finely chop onions, tomatoes, green chilies, and coriander leaves.\n3) Sprinkle the chopped vegetables evenly on the batter. \n4)Drizzle oil around the edges and cook on medium heat until the base is golden.\n5) Flip gently and cook the other side for 1-2 minutes. Serve hot with coconut chutney and sambar.
+---
+Name: (16) Kanda Batata Poha
+Cuisine: Indian
+Category: Breakfast
+Difficulty: Easy
+PrepTime: 10
+CookTime: 15
+Ingredients: flattened rice (poha): 2 cups,onions: 1 pc,potatoes: 1 pc,curry leaves: 8-10 pc,mustard seeds: 1 tsp,green chilies: 2 pc,turmeric powder: ½ tsp,peanuts: 2 tbsp,oil: 2 tbsp,salt: to taste,lemon: 1 pc,coriander leaves: 2 tbsp
+Description: A light and flavorful Maharashtrian dish made with flattened rice, onions, potatoes, and tempered with spices.
+Instructions: \n1) Wash poha in water and drain, letting it soften slightly.\n2) Heat oil in a pan, add mustard seeds, and let them splutter. \n3)Add curry leaves, chopped green chilies, and peanuts, and sauté for 2 minutes. \n4)Add chopped onions and diced potatoes, cook until softened. \n5)Add turmeric powder, salt, and the softened poha. Mix well and cook for 2-3 minutes.\n6) Garnish with lemon juice and coriander leaves. Serve hot.
+---
+Name: (17) Lemon Rice
+Cuisine: Indian
+Category: Main Course
+Difficulty: Easy
+PrepTime: 10
+CookTime: 15
+Ingredients: cooked rice: 2 cups,lemon juice: 3 tbsp,mustard seeds: 1 tsp,curry leaves: 8-10 pc,green chilies: 2 pc,turmeric powder: ½ tsp,peanuts: 2 tbsp,oil: 2 tbsp,salt: to taste
+Description: A tangy and refreshing South Indian rice dish flavored with lemon, curry leaves, and spices.
+Instructions: \n1)Heat oil in a pan, add mustard seeds, and let them splutter. Add curry leaves, chopped green chilies, and peanuts.\n2) Sauté for 2-3 minutes. Add turmeric powder and salt, mix well. \n3)Stir in the cooked rice and combine evenly with the spices. \n4)Turn off the heat and add lemon juice, mixing gently to avoid breaking the rice. Serve warm with papad or pickle.
+---
+Name: (18) Paneer Paratha
+Cuisine: Indian
+Category: Breakfast
+Difficulty: Medium
+PrepTime: 20
+CookTime: 15
+Ingredients: wheat flour: 2 cups,paneer: 200 gm,green chilies: 2 pc,coriander leaves: 2 tbsp,cumin powder: 1 tsp,red chili powder: ½ tsp,salt: to taste,butter: 2 tbsp
+Description: A soft and stuffed Indian flatbread filled with a spiced paneer mixture, cooked with butter.
+Instructions: \n1)Grate paneer and mix with chopped green chilies, coriander leaves, cumin powder, red chili powder, and salt. \n2)Knead a soft dough using wheat flour, salt, and water.\n3) Divide the dough into balls, roll each out, and place the paneer filling in the center. \n4)Fold and seal the edges, then roll gently into a flat circle. \n5)Cook on a skillet, applying butter on both sides, until golden. Serve hot with curd or pickle.
+---
+Name: (19) Galouti Kebab Roll
+Cuisine: Indian
+Category: Snack
+Difficulty: Hard
+PrepTime: 30
+CookTime: 30
+Ingredients: minced mutton: 500 gm,onions: 1 pc,ginger-garlic paste: 1 tbsp,roasted gram flour: 2 tbsp,yogurt: 2 tbsp,garam masala: 1 tsp,green chilies: 2 pc,mint leaves: 2 tbsp,parathas: 4 pc,oil: 3 tbsp,salt: to taste
+Description: A flavorful Lucknowi delicacy made of soft, spiced minced mutton kebabs wrapped in a flaky paratha.
+Instructions: \n1)Mix minced mutton with finely chopped onions, ginger-garlic paste, roasted gram flour, yogurt, garam masala, chopped green chilies, mint leaves, and salt. \n2)Knead well and form small patties.\n3) Heat oil in a pan and shallow fry the kebabs until golden and cooked through. \n4)Warm parathas on a skillet and place a kebab in the center of each paratha. \n5)Roll tightly, securing with foil or parchment paper. Serve hot with mint chutney.
+---
+Name: (20) Chilli Cheese Pizza
+Cuisine: Italian
+Category: Snack
+Difficulty: Medium
+PrepTime: 15
+CookTime: 20
+Ingredients: pizza base: 1 pc,mozzarella cheese: 1 cup,tomato sauce: 3 tbsp,green chilies: 2 pc,bell peppers: ½ pc,red chili flakes: 1 tsp,oregano: 1 tsp,olive oil: 1 tbsp
+Description: A spicy and cheesy pizza topped with fresh vegetables and chili flakes, perfect for spice lovers.
+Instructions: \n1)Preheat the oven to 200°C (400°F). Spread tomato sauce evenly on the pizza base. \n2)Grate mozzarella cheese and sprinkle it generously over the sauce. \n3)Thinly slice green chilies and bell peppers, and spread them evenly on top. \n4)Sprinkle chili flakes and oregano.\n5) Drizzle olive oil over the pizza. \n6)Bake for 15-20 minutes until the crust is golden and the cheese is bubbly.\n7) Serve hot with ketchup or a side of chili oil.
+---
+Name: (21) Alfredo Pasta
+Cuisine: Italian
+Category: Main Course
+Difficulty: Easy
+PrepTime: 15
+CookTime: 20
+Ingredients: fettuccine pasta: 200 gm,butter: 2 tbsp,cream: 1 cup,garlic: 2 cloves,parmesan cheese: ½ cup,black pepper: 1 tsp,salt: to taste,parsley: 2 tbsp
+Description: A creamy and rich pasta dish made with a buttery Alfredo sauce, perfect for a hearty Italian meal.
+Instructions:\n1) Cook the fettuccine pasta in salted boiling water until al dente, then drain and set aside. \n2)In a pan, melt butter and sauté minced garlic for 1 minute. \n3)Add cream and simmer on low heat for 2-3 minutes. \n4)Stir in grated parmesan cheese, black pepper, and salt, and mix until smooth.\n5) Add the cooked pasta and toss to coat evenly with the sauce.\n6) Garnish with chopped parsley and serve hot.
+---
+Name: (22) Pasta Bolognese
+Cuisine: Italian
+Category: Main Course
+Difficulty: Medium
+PrepTime: 20
+CookTime: 40
+Ingredients: spaghetti: 200 gm,ground beef: 300 gm,onions: 1 pc,carrots: 1 pc,celery: 1 stalk,tomato puree: 1 cup,garlic: 2 cloves,olive oil: 2 tbsp,red w
